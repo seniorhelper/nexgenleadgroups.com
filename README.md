@@ -1,2 +1,1 @@
-# nexgenleadgroups.com
-nexgenleadgroups.com
+Static site.
